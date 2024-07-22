@@ -1,6 +1,7 @@
 # Description
 
-I created this website using XAMPP and phpMyAdmin,
+I created this website using XAMPP and phpMyAdmin for the database,
+
 All files included were placed in the 'htdocs' folder when using XAMPP
 
 This website code allows users to log in/register while authenticating users, search for books by
